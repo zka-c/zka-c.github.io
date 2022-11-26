@@ -1,28 +1,34 @@
-# Site settings
-title: English to Chinese subtitle translation
-email: zikang@bigpiyta.asia
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
-
-# User setting
-owner: zikang
-email: zikang@bigpiyata.asia
-facebook_username:
-twitter_username:
-github_username: zka-c
-address:
-  - line:
-  - line:
-  # Feel free to add more lines here 
-telephone:
-copyright: Bigpiyata
-
-# API settings
-google_api_key:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-sitemap
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+
+# Pages Path
+defaults:
+  - scope:
+      path: "_pages"
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+sass:
+  sass_dir: assets/scss
+  style: compressed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.text
+  - README.md
+  - SECURITY.md
