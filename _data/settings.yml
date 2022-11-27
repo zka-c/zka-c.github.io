@@ -6,15 +6,15 @@ title: Translator
 logo:
 author: zikang
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2022 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: zikang@bigpiyata.asia
+phone: +86 155 2748 0940
+address: Daxue East Road 100, Nanning City, Guangxi, China
+copyright: Copyright &copy; 2022 Powered by [Bigpiyata Translation](https://bigpiyata.asia)
 
 menu:
-  - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
+  - { name: About, link: "/about" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
@@ -36,19 +36,19 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Zikang<br> subtitle translator
+  hero-title: Hi! I’m <br> Zikang</br> subtitle translator
 
 social:
-  - { icon: "ti-facebook", link: "#" }
+  - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/zikang-chen-liveinnanning/" }
+  - { icon: "ti-youtube", link: "#" }
+  - { icon: "ti-tiktok", link: "#" }
   - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: Nihao! My name’s Zikang. I’m a freelance English-to-Chinese translator and subtitler.My subtitles can be seen on various popular Youtubers' videos and I’ve translated for Youtubers and amplify their voices.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -86,10 +86,10 @@ team:
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
+skills-title: What can I do for you?
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
+  - { name: Subtitle Translation, color: "#fdb157", value: "90%" }
+  - { name: Website Localization, color: "#9473e6", value: "60%" }
   - { name: After Effects, color: "#bdecf6", value: "80%" }
   - { name: Web App, color: "#ffbcaa", value: "70%" }
 
@@ -149,13 +149,13 @@ education:
 services-title: Services
 services:
   - {
-      name: UI Design,
+      name: Subtitle Translation,
       icon: ti-palette,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
+      name: Website Localization,
       icon: ti-vector,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: true, # Add true to select section
