@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Jd increase income 1.5 Million
+title:  I love piza
 date:   2022-12-26 14:05:55 +0300
 image:  /assets/images/blog/post-2.jpg
 author: zkkkzzz
