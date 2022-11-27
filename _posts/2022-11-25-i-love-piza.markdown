@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  I love piza
-date:   2022-12-26 14:05:55 +0300
+date:   2022-11-25 14:05:55 +0300
 image:  /assets/images/blog/post-2.jpg
 author: zkkkzzz
 tags:   UX design
