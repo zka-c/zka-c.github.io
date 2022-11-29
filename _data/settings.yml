@@ -151,20 +151,20 @@ services:
   - {
       name: Subtitle Translation,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      description: "English To Chinese Subtitle Translation, With nature and living language, and 100% human translation!",
+      active: true, # Add true to select section
     }
   - {
       name: Website Localization,
       icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Best translation, Fast delivery!",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
+      name: Digital Marketing,
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      description: "Bring you to China Market!",
+      active: true , # Add true to select section
     }
 
 #-------------------------------
