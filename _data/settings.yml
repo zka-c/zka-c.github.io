@@ -25,12 +25,12 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+google-analytics: G-Q7RF87X9DR
 
 #-------------------------------
 # Comment Section (Disqus)
 
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: bigpiyata
 
 #-------------------------------
 # Hero Section
