@@ -247,20 +247,20 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
+  - name: "Jesica Kedle"
     image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    designation: "Project Manager"
+    content: “As a project manager and recruiter for a translation agency, I have contracted Zikang for a number of English-to-Chinese translation jobs. In all projects, I found Zikang to be professional, friendly, and efficient, and his translations were of a high quality. ”
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
+  - name: "Shilly Gnz"
+    image: "assets/images/testimonial/client-2.png"
     designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+    content: “I have had the pleasure to meet and work with Zikang. He is an accomplished translator and provides excellent layout and complete accuracy to each translation he provides. Thank you Zikang Chen for your continued professionalism and talent as a translator.”
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  - name: "Peter Nana"
+    image: "assets/images/testimonial/client-3.png"
+    designation: "Director"
+    content: “Some of our clients are located abroad, and this means we need to translate financial forms and studies into Chinese. When we need translations, we can count on Zikang’s invaluable help. He has proven his knowledge of technical English and is committed to meeting deadlines.”
 
 #-------------------------------
 # Client Slider Section
