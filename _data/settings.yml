@@ -12,8 +12,8 @@ address: Daxue East Road 100, Nanning City, Guangxi, China
 copyright: Copyright &copy; 2022 Powered by [Bigpiyata Translation](https://bigpiyata.asia)
 
 menu:
+  - { name: Service, link: "/service" }
   - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
   - { name: About, link: "/about" }
   - { name: Contact, link: "/contact" }
 
