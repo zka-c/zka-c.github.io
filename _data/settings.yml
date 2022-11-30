@@ -12,7 +12,7 @@ address: Daxue East Road 100, Nanning City, Guangxi, China
 copyright: Copyright &copy; 2022 Powered by [Bigpiyata Translation](https://bigpiyata.asia)
 
 menu:
-  - { name: Service, link: "/service" }
+  - { name: Service, link: "/service"}
   - { name: Blog, link: "/blog" }
   - { name: About, link: "/about" }
   - { name: Contact, link: "/contact" }
@@ -57,17 +57,17 @@ blurb-btn-name: know more
 
 # Work Process Section
 work-process:
-  - title: "Research and Plan"
+  - title: "Receive the Tasks"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Confirm the cooperation translation projects and you send me the materials."
 
-  - title: "Design and Develop"
+  - title: "Translation&Proofread"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "I start translating with nature language and proofread the contents."
 
   - title: "Deliver"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "After finishing the translation, I will send you the target materials via e-mail."
 
 # My Team Section
 team:
@@ -99,22 +99,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Freelancer Translator,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "Jan 2020 - Feb 2022",
+      organization: "Wordee",
     }
   - {
-      name: UX & UI Designer,
+      name: Reviewer,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "Mar 2020 - Aug 2022",
+      organization: "Gamata",
     }
   - {
-      name: Senior UI Designer,
+      name: Senior Proofread,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Sep 2021 - Present",
+      organization: "Kuxqi",
     }
 
 #-------------------------------
@@ -123,7 +123,7 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in Translation and Interpreting,
+      name: Master in Translation and Interpreting,
       date: "2020",
       organization: "Guangxi University",
     }
