@@ -5,7 +5,7 @@ title: Services
 
 # Professional Chinese Translation Services
 I have been providing English to Chinese subtitle translation services for various companies. You need your video subtitles translated from English to Mandarin, so I get straight to work. 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DP_gwNzTPXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## The Benefits of Subtitle Translation
 
 There are so many benefits of subtitling a video. The first use of subtitles is to present videos to those who don’t speak the language that the audio element is recorded in. This was the case with my recent video translation client. She wanted to share her video with audiences who spoke Mandarin, but without re-recording the audio element of it. As such, she planned to keep the sound in English while providing Chinese subtitles. My professional subtitle translation service was just what she required. 
