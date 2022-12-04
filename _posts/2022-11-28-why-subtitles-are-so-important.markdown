@@ -8,7 +8,7 @@ tags:   subtitle translation
 ---
 
 **No matter what sector of business you are in, your marketing plan probably includes video material. If it's not, it should be; otherwise. By 2022, online videos will account for more than 82% of all consumer internet traffic, according to a Cisco report. Additionally, 72% of consumers prefer watching a video to understand more about a good or service.**
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DP_gwNzTPXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 No matter what sector of business you are in, your marketing plan probably includes video material. If it's not, it should be; otherwise. By 2022, online videos will account for more than 82% of all consumer internet traffic, according to a Cisco report. Additionally, 72% of consumers prefer watching a video to understand more about a good or service. Even so, videos won't suddenly take your marketing success and customer engagement to the next level. The online market is crowded, cutthroat, and evolving quickly. Users must engage with the content as well as slow their scrolling. And the answer is really straightforward yet sometimes disregarded when it comes to video content: closed captions.
 
 Your online video content will be much more successful if you add English captions or foreign language subtitles. I'm here to explain why as a professional captioner and subtitler, so please read on:
